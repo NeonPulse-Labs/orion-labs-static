@@ -10,5 +10,5 @@ export default defineConfig({
     tailwindcss(),
     svgr()
   ],
-  base: '/orion-labs-static/'
+  base: '/'
 })
